@@ -44,6 +44,8 @@ Advance version:
 4. Time can be saved in sorting process. 
 5. However, each AVL tree should not contain too few nodes. Otherwise, it would backfire us in searching process. We would lose the query advantage.
 
-P.S. All of the commands can be done in 4 - 8 seconds. 
-P.S.2. As I am using quick sort, it can finish it within 5 seconds if being lucky.
-P.S.3. It used around 95 seconds to process all of the actions if the original AVL tree (with rotation) is being applied.
+PS. All of the commands can be done in 4 - 8 seconds.
+
+PS2. As I am using quick sort, it can finish it within 5 seconds if being lucky.
+
+PS3. It used around 95 seconds to process all of the actions if the original AVL tree (with rotation) is being applied.
