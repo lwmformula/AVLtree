@@ -3,7 +3,9 @@
 Usage:
 1. Rename the dataset to “ops-half.txt”
 2. Relocate the renamed dataset to AVL file
+
 (If you are using the my dataset, ignore the first two lines)
+
 3. Open command prompt
 4. cd to AVL
 5. Input: 
@@ -29,7 +31,7 @@ Steps:
 1. Append the number to the array whenever “ins” command is encountered.
 2. Do the step 1 repeatedly until we meet “qry” command.
 3. Sort that array by quick sort algorithm.
-4. Convert the sorted array into AVL tree by binary search algorithm. The time complexity for this step is O(log n).
+4. Convert the sorted array into AVL tree by binary search algorithm. The time complexity for this step is O(n).
 5. Empty the sorted array.
 5. Append the AVL tree to a specific array which used to stored AVL tree.
 6. Query the number by searching the AVL trees in the AVL tree array.
